@@ -10,6 +10,7 @@ Start node: hold 's' & left click\
 Goal node: hold 'r' & left click\
 Create wall: left click & drag\
 Delete wall: right click & drag\
+\
 ![Nodes](https://github.com/NebRhee/pathfinding-visualizer-java/assets/82688937/6d5946ee-f88f-415c-9e80-ac794ed18683)
 
 ### Grid size
@@ -27,4 +28,5 @@ You are able to change the speed of the algorithm as it's running using the spee
 
 ### Now visualize!
 Press the Visualize button to visualize the algorithm!\
+\
 ![Visualizer](https://github.com/NebRhee/pathfinding-visualizer-java/assets/82688937/6cfddc41-3284-47ba-9c6b-2be79069946c)

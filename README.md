@@ -1,5 +1,5 @@
 # Pathfinding Visualizer
-This is a pathfinding visualizer built with Java Swing. Currently, it's able to visualize both the A* and Breadth-First Search pathfinding algorithms, both of which can be toggled using the dropdown menu in the application.\
+This is a pathfinding visualizer built with Java Swing. Currently, it's able to visualize both the A* and Breadth-First Search pathfinding algorithms, both of which can be toggled using the dropdown menu in the application.
 
 To run the application, download the .jar file and run it.
 

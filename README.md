@@ -11,22 +11,22 @@ Goal node: hold 'r' & left click\
 Create wall: left click & drag\
 Delete wall: right click & drag\
 \
-![nodes-fix](https://github.com/NebRhee/pathfinding-visualizer-java/assets/82688937/6b15db5a-b848-449d-85dc-4a7972201a1c)
+![nodes](https://github.com/NebRhee/pathfinding-visualizer-java/assets/82688937/fffc6d23-b3f5-40de-9ce6-b1252eeece50)
 
 ### Grid size
 You can choose one of three different grid sizes using the slider. 
 \
 \
-![grid-size](https://github.com/NebRhee/pathfinding-visualizer-java/assets/82688937/a2c6d60f-a1e8-4438-adf9-2e29654d0922)
+![grid-size](https://github.com/NebRhee/pathfinding-visualizer-java/assets/82688937/eedb204c-f35d-4b89-9eec-ba5903facd80)
 Note: Changing the grid size will automatically reset and clear the grid at any stage of execution.
 
 ### Algorithm speed
 You are able to change the speed of the algorithm as it's running using the speed slider.\
 \
-![speed-fix](https://github.com/NebRhee/pathfinding-visualizer-java/assets/82688937/cf1f033d-6643-429c-8dc6-26504f1366aa)
+![speed](https://github.com/NebRhee/pathfinding-visualizer-java/assets/82688937/de287488-294b-487a-870a-456bbc7ea5af)
 *Note:* BFS will be many times slower than A* so you will need to increase the speed of the BFS algorithm for it to be comparable to A*.
 
 ### Now visualize!
 Press the Visualize button to visualize the algorithm!\
 \
-![visualizer-fix](https://github.com/NebRhee/pathfinding-visualizer-java/assets/82688937/d0cf7cc6-9c4f-498f-b4b5-f6d7a9e075f4)
+![visualize](https://github.com/NebRhee/pathfinding-visualizer-java/assets/82688937/ee61d6c3-07db-4817-9bf2-407c2067329e)
